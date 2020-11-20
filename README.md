@@ -1,4 +1,4 @@
-# typescript-npm-package-starter
+# typescript NPM package starter boilerplate
 
 Start your own npm package with types to ease developer experience when using your packages.
 
