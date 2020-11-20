@@ -1,0 +1,22 @@
+{
+  "name": "typescript-npm-package-starter",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "types": "lib",
+  "scripts": {
+    "build":"tsc -p ."
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "typescript",
+    "starter",
+    "boilerplate"
+  ],
+  "repository": "git@github.com:RayLuxembourg/typescript-npm-package-starter.git",
+  "author": "Ray Luxembourg <ray.luxembourg@sisense.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
